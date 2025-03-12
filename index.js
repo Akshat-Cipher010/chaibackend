@@ -37,7 +37,7 @@ const githubData = {
     "following": 0,
     "created_at": "2025-03-12T11:09:25Z",
     "updated_at": "2025-03-12T11:12:07Z"
-  }
+}
 
 app.get('/', (req, res) => {
     res.send('Hello World!')
